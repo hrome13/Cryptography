@@ -5,9 +5,9 @@ In this repository, I have implemented some cryptosystems (encryption/decryption
 Currently implemented:
 - Pallier
 - Goldwasser-Micali (GM)
+- Schmidt-Samoa
 
 Planned implementations:
 - ElGamal
-- Schmidt-Samoa
 - Rabin
 - RSA

@@ -1,6 +1,6 @@
 import os
 
-def save_secret_key(path, sk)
+def save_secret_key(path, sk):
     # Set the path to the USB drive
     # usb_drive_path = '/media/usb'
 
